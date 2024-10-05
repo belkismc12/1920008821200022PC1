@@ -1,0 +1,6 @@
+@PC1DAW_HostAddress = http://localhost:5033
+
+GET {{PC1DAW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
